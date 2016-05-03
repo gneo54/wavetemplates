@@ -1,0 +1,265 @@
+{
+    "templateName": "Silverline Base Dashboard",
+    "templateDescription": "Simple yet elegant Wave template by Silverline",
+    "state" : {
+    "widgets": {
+      "box_1": {
+        "type": "box",
+        "position": {
+          "zIndex": 9,
+          "x": 0,
+          "y": 70,
+          "w": 280,
+          "h": 630
+        },
+        "parameters": {
+          "backgroundColor": "rgb(66, 139, 202)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "text_1": {
+        "type": "text",
+        "position": {
+          "zIndex": 20,
+          "x": 800,
+          "y": 460
+        },
+        "parameters": {
+          "text": "DISTRIBUTION"
+        }
+      },
+      "box_3": {
+        "type": "box",
+        "position": {
+          "zIndex": 10,
+          "x": 10,
+          "y": 80,
+          "w": 260,
+          "h": 610
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0.01)"
+        }
+      },
+      "box_2": {
+        "type": "box",
+        "position": {
+          "zIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 1270,
+          "h": 1020
+        },
+        "parameters": {
+          "backgroundColor": "rgba(101, 106, 109, 0.28)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "text_11": {
+        "type": "text",
+        "position": {
+          "zIndex": 40,
+          "x": 300,
+          "y": 80
+        },
+        "parameters": {
+          "text": "KPI"
+        }
+      },
+      "box_18": {
+        "type": "box",
+        "position": {
+          "zIndex": 39,
+          "x": 300,
+          "y": 80,
+          "w": 960,
+          "h": 60
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      },
+      "text_3": {
+        "type": "text",
+        "position": {
+          "zIndex": 27,
+          "x": 300,
+          "y": 150
+        },
+        "parameters": {
+          "text": "MAIN ANALYSIS"
+        }
+      },
+      "box_5": {
+        "type": "box",
+        "position": {
+          "zIndex": 8,
+          "x": 300,
+          "y": 460,
+          "w": 500,
+          "h": 230
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "box_14": {
+        "type": "box",
+        "position": {
+          "zIndex": 25,
+          "x": 300,
+          "y": 150,
+          "w": 960,
+          "h": 280
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)"
+        }
+      },
+      "text_2": {
+        "type": "text",
+        "position": {
+          "zIndex": 19,
+          "x": 300,
+          "y": 460
+        },
+        "parameters": {
+          "text": "ANALYSIS"
+        }
+      },
+      "box_4": {
+        "type": "box",
+        "position": {
+          "zIndex": 6,
+          "x": 290,
+          "y": 70,
+          "w": 980,
+          "h": 370
+        },
+        "parameters": {
+          "backgroundColor": "rgb(66, 139, 202)"
+        }
+      },
+      "box_13": {
+        "type": "box",
+        "position": {
+          "zIndex": 4,
+          "x": 0,
+          "y": 710,
+          "w": 1270,
+          "h": 300
+        },
+        "parameters": {
+          "backgroundColor": "rgb(66, 139, 202)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "text_5": {
+        "type": "text",
+        "position": {
+          "zIndex": 21,
+          "x": 10,
+          "y": 720
+        },
+        "parameters": {
+          "text": "DATA EXPLORER"
+        }
+      },
+      "box_7": {
+        "type": "box",
+        "position": {
+          "zIndex": 3,
+          "x": 290,
+          "y": 450,
+          "w": 980,
+          "h": 250
+        },
+        "parameters": {
+          "backgroundColor": "rgb(66, 139, 202)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "box_12": {
+        "type": "box",
+        "position": {
+          "zIndex": 24,
+          "x": 0,
+          "y": 10,
+          "w": 320,
+          "h": 50
+        },
+        "parameters": {
+          "backgroundColor": "rgba(0, 140, 201, 0)",
+          "borderColor": "rgba(0, 0, 0, 0)",
+          "imageUrl": "01530000001dxM0"
+        }
+      },
+      "text_4": {
+        "type": "text",
+        "position": {
+          "zIndex": 20,
+          "x": 50,
+          "y": 80
+        },
+        "parameters": {
+          "text": "FILTERS",
+          "textAlignment": "left"
+        }
+      },
+      "box_6": {
+        "type": "box",
+        "position": {
+          "zIndex": 7,
+          "x": 810,
+          "y": 460,
+          "w": 450,
+          "h": 230
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderColor": "rgba(0, 0, 0, 0)"
+        }
+      },
+      "text_7": {
+        "type": "text",
+        "position": {
+          "zIndex": 23,
+          "x": 460,
+          "y": 20
+        },
+        "parameters": {
+          "text": "DASHBOARD PURPOSE / TITLE",
+          "textColor": "rgb(66, 139, 202)"
+        }
+      },
+      "box_8": {
+        "type": "box",
+        "position": {
+          "zIndex": 5,
+          "x": 10,
+          "y": 720,
+          "w": 1250,
+          "h": 280
+        },
+        "parameters": {
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderColor": "rgba(255, 255, 255, 0)"
+        }
+      },
+      "text_9": {
+        "type": "text",
+        "position": {
+          "zIndex": 35,
+          "x": 720,
+          "y": 720
+        },
+        "parameters": {
+          "text": "TREND"
+        }
+      }
+    },
+    "layouts": []
+  }
+}
