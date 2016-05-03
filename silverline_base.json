@@ -4,7 +4,7 @@
     "state" : {
     "widgets": {
       "box_1": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 9,
           "x": 0,
@@ -18,7 +18,7 @@
         }
       },
       "text_1": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 20,
           "x": 800,
@@ -29,7 +29,7 @@
         }
       },
       "box_3": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 10,
           "x": 10,
@@ -43,7 +43,7 @@
         }
       },
       "box_2": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 1,
           "x": 0,
@@ -57,7 +57,7 @@
         }
       },
       "text_11": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 40,
           "x": 300,
@@ -68,7 +68,7 @@
         }
       },
       "box_18": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 39,
           "x": 300,
@@ -81,7 +81,7 @@
         }
       },
       "text_3": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 27,
           "x": 300,
@@ -92,7 +92,7 @@
         }
       },
       "box_5": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 8,
           "x": 300,
@@ -106,7 +106,7 @@
         }
       },
       "box_14": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 25,
           "x": 300,
@@ -119,7 +119,7 @@
         }
       },
       "text_2": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 19,
           "x": 300,
@@ -130,7 +130,7 @@
         }
       },
       "box_4": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 6,
           "x": 290,
@@ -143,7 +143,7 @@
         }
       },
       "box_13": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 4,
           "x": 0,
@@ -157,7 +157,7 @@
         }
       },
       "text_5": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 21,
           "x": 10,
@@ -168,7 +168,7 @@
         }
       },
       "box_7": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 3,
           "x": 290,
@@ -182,7 +182,7 @@
         }
       },
       "box_12": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 24,
           "x": 0,
@@ -197,7 +197,7 @@
         }
       },
       "text_4": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 20,
           "x": 50,
@@ -209,7 +209,7 @@
         }
       },
       "box_6": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 7,
           "x": 810,
@@ -223,7 +223,7 @@
         }
       },
       "text_7": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 23,
           "x": 460,
@@ -235,7 +235,7 @@
         }
       },
       "box_8": {
-        "type": "box",
+        "type": "BoxWidget",
         "position": {
           "zIndex": 5,
           "x": 10,
@@ -249,7 +249,7 @@
         }
       },
       "text_9": {
-        "type": "text",
+        "type": "TextWidget",
         "position": {
           "zIndex": 35,
           "x": 720,
